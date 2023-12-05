@@ -1,0 +1,16 @@
+/* common shared styles */
+body {
+     font-family: 'Open Sans', sans-serif;
+     font-family: 'Work Sans', sans-serif;
+}
+
+
+
+
+
+/* nav related styles */
+
+nav {
+     display: flex;
+
+}
